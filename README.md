@@ -47,15 +47,6 @@ Backend (Optional): Python (Flask/Django) or Node.js
 
 Data Source: Spotify API / Mock datasets
 
-🚀 Getting Started
-Clone the repository:
-
-bash
-git clone https://github.com/yourusername/spotify-dashboard.git
-Open the Spotify_Dashboard.pdf to view the design mockup.
-
-(Future steps for running the app will be added here.)
-
 📈 Future Enhancements
 Connect to Spotify Web API for live data.
 
